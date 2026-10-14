@@ -1,12 +1,12 @@
 # myfirstrepo
 
-##overzicht
+## overzicht
 hier maak ik software voor school 
 
-##inhoud
+## inhoud
 ik maak software voor school die taken kunnen oplossing bv een simpele rekenmachine, een lijst met namen die je kan verranderen enz...
 
-##computertalen
+## computertalen
 ik gebruik c#,html en jave
 
 
