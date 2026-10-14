@@ -1,12 +1,14 @@
 # myfirstrepo
 
-deze repo is voor basis code leren de kennen en uitproberen
+##overzicht
+hier maak ik software voor school 
 
-hier gebruik ik c# ,html en java
+##inhoud
+ik maak software voor school die taken kunnen oplossing bv een simpele rekenmachine, een lijst met namen die je kan verranderen enz...
 
-Deze website dingen taken die ik moest maken voor de kijken dat ik het kan daarvoor moest ik ook soms bootstrap gebruiken.
-dit zijn website die je kan gebruiken voor de kijken wat ik heb gedaan.
-Je hebt well visual studio code nodig of een andere progameer software voor het de kunnen gebruiken.
+##computertalen
+ik gebruik c#,html en jave
 
-de website zijn gemaakt door 
+
+##de website zijn gemaakt door 
 seppe-ui
